@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/p-acid/auto-change-log-test/compare/v0.0.2...v0.0.3) (2022-11-17)
+
+
+### Features
+
+* modify md ([ba4fde3](https://github.com/p-acid/auto-change-log-test/commit/ba4fde3633919d6559b6ea886a40c6fd06a1e345))
+
 ### [0.0.2](https://github.com/p-acid/auto-change-log-test/compare/v0.0.1...v0.0.2) (2022-11-17)
 
 ### [0.0.1](https://github.com/p-acid/auto-change-log-test/compare/v0.1.0...v0.0.1) (2022-11-17)
