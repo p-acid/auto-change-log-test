@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/p-acid/auto-change-log-test/compare/v1.0.0...v1.1.0) (2022-11-20)
+
+
+### Features
+
+* release-please push branch ([#5](https://github.com/p-acid/auto-change-log-test/issues/5)) ([7b9141c](https://github.com/p-acid/auto-change-log-test/commit/7b9141c88a44714c2a94ba22faff96e7d55c7be5))
+
 ## 1.0.0 (2022-11-20)
 
 
