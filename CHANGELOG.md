@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/p-acid/auto-change-log-test/compare/v1.0.1...v1.0.2) (2022-11-20)
+
+
+### Tests
+
+* test for changelog-types ([#8](https://github.com/p-acid/auto-change-log-test/issues/8)) ([#9](https://github.com/p-acid/auto-change-log-test/issues/9)) ([258c56b](https://github.com/p-acid/auto-change-log-test/commit/258c56b767dec1ed9c921e4cbc131715ea0206a5))
+
 ## [1.1.0](https://github.com/p-acid/auto-change-log-test/compare/v1.0.0...v1.1.0) (2022-11-20)
 
 
