@@ -33,4 +33,24 @@ yarn standard-version --release-as [version-to-release]
 - If you use "Squash or Rebase and Merge" in Github, you must name the PR aligned with Conventional Commits
 - If you use interactive rebase in cli, you must name the title of rebased commit aligned with Conventional Commits
 
-### Other Packages
+## `release-please`
+
+```yml
+# .github/workflow/release-please.yml
+
+name: release-please
+on:
+  push:
+    branches:
+      - main
+      - develop
+jobs:
+  release-please:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: google-github-actions/release-please-action@v3
+        with:
+          release-type: node # Multiple release types are supported
+          default-branch: main
+          changelog-types: '[{"type": "chore","section": "Others","hidden": false},{"type": "revert","section": "Reverts","hidden": false},{"type": "feat","section": "Features","hidden": false},{"type": "fix","section": "Bug Fixes","hidden": false},{"type": "improvement","section": "Feature Improvements","hidden": false},{"type": "docs","section": "Docs","hidden": false},{"type": "style","section": "Styling","hidden": false},{"type": "refactor","section": "Code Refactoring","hidden": false},{"type": "perf","section": "Performance Improvements","hidden": false},{"type": "test","section": "Tests","hidden": false},{"type": "build","section": "Build System","hidden": false},{"type": "ci","section": "CI","hidden": false}]'
+```
