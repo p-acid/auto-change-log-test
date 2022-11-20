@@ -1,6 +1,6 @@
 {
   "name": "auto-change-log-test",
-  "version": "1.0.3",
+  "version": "1.0.301",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
