@@ -1,5 +1,31 @@
 # Changelog
 
+## [1.0.302](https://github.com/p-acid/auto-change-log-test/compare/v1.1.0...v1.0.302) (2022-11-21)
+
+
+### Features
+
+* markup ([0ec5a74](https://github.com/p-acid/auto-change-log-test/commit/0ec5a746df20df9e9379ca646021e8ae22962819))
+* squash 1 ([#18](https://github.com/p-acid/auto-change-log-test/issues/18)) ([0935301](https://github.com/p-acid/auto-change-log-test/commit/0935301da9ec8a084aac9ced278f51b0496d2b63))
+* squash 1 ([#18](https://github.com/p-acid/auto-change-log-test/issues/18)) ([0ec5a74](https://github.com/p-acid/auto-change-log-test/commit/0ec5a746df20df9e9379ca646021e8ae22962819))
+* style ([0ec5a74](https://github.com/p-acid/auto-change-log-test/commit/0ec5a746df20df9e9379ca646021e8ae22962819))
+
+
+### Bug Fixes
+
+* conflict ([9b3f19e](https://github.com/p-acid/auto-change-log-test/commit/9b3f19edfcb53cd28b8d5f0d7979a415f488d6da))
+
+
+### Others
+
+* release 1.0.302 ([0935301](https://github.com/p-acid/auto-change-log-test/commit/0935301da9ec8a084aac9ced278f51b0496d2b63))
+
+
+### Docs
+
+* squash 2 ([#19](https://github.com/p-acid/auto-change-log-test/issues/19)) ([0935301](https://github.com/p-acid/auto-change-log-test/commit/0935301da9ec8a084aac9ced278f51b0496d2b63))
+* squash 2 ([#19](https://github.com/p-acid/auto-change-log-test/issues/19)) ([c3d69fc](https://github.com/p-acid/auto-change-log-test/commit/c3d69fcc00c500595f09004295995b47beb0d1c7))
+
 ## [1.0.301](https://github.com/p-acid/auto-change-log-test/compare/v1.0.3...v1.0.301) (2022-11-20)
 
 ### [0.0.9](https://github.com/p-acid/auto-change-log-test/compare/v0.0.8...v0.0.9) (2022-11-18)
