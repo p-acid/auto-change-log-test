@@ -35,6 +35,10 @@ yarn standard-version --release-as [version-to-release]
 
 ## `release-please`
 
+### About
+
+Auto Release service by Github Actions
+
 ### Setting
 
 ```yml
