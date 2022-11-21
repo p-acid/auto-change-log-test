@@ -2,6 +2,9 @@
 
 ## [1.0.301](https://github.com/p-acid/auto-change-log-test/compare/v1.0.3...v1.0.301) (2022-11-20)
 
+### [0.0.9](https://github.com/p-acid/auto-change-log-test/compare/v0.0.8...v0.0.9) (2022-11-18)
+
+### [0.0.8](https://github.com/p-acid/auto-change-log-test/compare/v0.0.7...v0.0.8) (2022-11-18)
 
 ### Others
 
