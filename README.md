@@ -1,5 +1,7 @@
 # Auto Change Log Testing
 
+> `standard-version` is excluded
+
 ## `standard-version`
 
 ### Install
